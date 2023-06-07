@@ -20,7 +20,7 @@ cfclient
 [Follow this tutorial](https://www.bitcraze.io/documentation/repository/crazyflie-clients-python/master/userguides/userguide_client/#firmware-upgrade)    
 
 ### 4. Taking a test flight   
-![cotroller mappings for manuevering the flyer](/images/controller_mapping.png)
+![cotroller mappings for manuevering the flyer](/images/controller_map.png)
 
 
 ## Controlling via a script
